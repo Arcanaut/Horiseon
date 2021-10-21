@@ -75,6 +75,8 @@ p {
     margin-left: 20px;
 }
 
+/*Start of benefits sidebar.*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -115,7 +117,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* benefit images*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -134,33 +136,12 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+/*End of benefit images*/
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+/*End of benefits side bar*/
 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
+/*Images for Hero Content*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,9 +154,39 @@ p {
     max-height: 200px;
 }
 
+/*End of images for Hero Content*/
+
+/*style for hero text*/
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
 
 .online-reputation-management h2 {
@@ -183,10 +194,17 @@ p {
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.social-media-marketing {
     margin-bottom: 20px;
-    font-size: 36px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
+
+/*End of style for hero text*/
+
 
 .footer {
     padding: 30px;
